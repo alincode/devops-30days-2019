@@ -4,6 +4,7 @@
     "Thome",
     "fluentd",
     "gcloud",
-    "kubectl"
+    "kubectl",
+    "nginx"
   ]
 }
